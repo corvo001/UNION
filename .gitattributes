@@ -1,0 +1,16 @@
+# Definir archivos de Julia
+*.jl linguist-language=Julia
+
+# Ignorar PowerShell para que no aparezca en las estadísticas
+*.ps1 linguist-vendored=true
+*.psm1 linguist-vendored=true
+
+# Si tienes scripts de PowerShell que quieres que no cuenten
+*.ps1 linguist-detectable=false
+*.psm1 linguist-detectable=false
+
+# Si algunos archivos en "Other" son realmente Julia
+*.julia linguist-language=Julia
+
+# Opcional: si tienes notebooks con Julia
+*.ipynb linguist-language=Julia
