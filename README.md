@@ -6,7 +6,6 @@
 
 ![UNION Banner](https://img.shields.io/badge/UNION-Ecosistema_de_Fractales-blue?style=for-the-badge)
 ![Multi-Language](https://img.shields.io/badge/Multi--Language-C++_Rust_Julia_Python-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completado_✅-success?style=for-the-badge)
 
 ## 🏗️ Arquitectura del Ecosistema
 
