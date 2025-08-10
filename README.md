@@ -336,9 +336,9 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 📞 Contacto
 
-- 📧 **Email**: tu-email@ejemplo.com
-- 🐙 **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- 💬 **Issues**: [GitHub Issues](https://github.com/tu-usuario/UNION-Fractales/issues)
+- 📧 **Email**: danielcuervor01@gmail.com
+- 🐙 **GitHub**: [@tu-usuario](https://github.com/corvo001)
+- 💬 **Issues**: [GitHub Issues](https://github.com/corvo001/UNION-Fractales/issues)
 
 ---
 
