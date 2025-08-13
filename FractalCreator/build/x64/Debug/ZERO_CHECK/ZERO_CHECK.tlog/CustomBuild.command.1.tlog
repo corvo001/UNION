@@ -1,0 +1,10 @@
+^C:\USERS\DANI_\DESKTOP\ALL\WORK\UNION\FRACTALCREATOR\BUILD\CMAKEFILES\2100560DE122C4161A35D645099DA846\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Dani_/Desktop/all/work/UNION/FractalCreator -BC:/Users/Dani_/Desktop/all/work/UNION/FractalCreator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Dani_/Desktop/all/work/UNION/FractalCreator/build/FractalCreator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

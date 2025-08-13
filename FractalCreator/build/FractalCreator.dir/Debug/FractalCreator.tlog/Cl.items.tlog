@@ -1,0 +1,11 @@
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\Mutator\MutatorUniversal.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\MutatorUniversal.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\core\Application.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\Application.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\core\Window.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\Window.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\evolution\GeneticEvolutionEngine.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\GeneticEvolutionEngine.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\fractals\BaseFractal.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\BaseFractal.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\fractals\DeformableFractal.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\DeformableFractal.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\generation\ProceduralFractalGenerator.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\ProceduralFractalGenerator.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\main.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\main.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\math\Complex.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\Complex.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\rendering\FractalRenderer.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\FractalRenderer.obj
+C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\src\rendering\ShaderProgram.cpp;C:\Users\Dani_\Desktop\all\work\UNION\FractalCreator\build\FractalCreator.dir\Debug\ShaderProgram.obj
